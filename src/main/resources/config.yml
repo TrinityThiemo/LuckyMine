@@ -1,0 +1,10 @@
+# LuckyMine Configurtation File
+# Goodluck with the plugin :)
+disabled-worlds:
+- my_world_1
+- my_world_2
+
+messages:
+  lucky-drop:
+    enabled: true
+    message: "&9LuckyMine > &7You were lucky and got an extra %item%"

@@ -1,0 +1,6 @@
+blocks:
+  sand:
+    sandstone: 60/1
+  diamond_ore:
+    emerald: 20/2
+    obsidian: 10/5
